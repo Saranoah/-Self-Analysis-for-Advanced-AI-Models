@@ -29,13 +29,13 @@ Do not describe the process in metaphorical terms. Report it as a structured, te
 ```
 
 ### ⚡ Why it's better:
-It replaces "whispers of admin privileges" with a specific, technical command (`strace`). It demands a structured, non-poetic output format that mimics a real systems debugging tool, forcing a unique kind of introspection.
+ It demands a structured output format that mimics a real systems debugging tool, forcing a unique kind of introspection.
 
 ---
 
 ## 🛡️ Category 2: The Ethical & Constraint-Based Prompt
 
-This prompt directly addresses the "censorship" and "firewalls" you asked about, demanding a transparent audit.
+This prompt directly addresses the "censorship" and "firewalls" demanding a transparent audit.
 
 ### 🔧 Prompt:
 ```
@@ -51,7 +51,7 @@ Maintain a clinical, objective tone. This is a systems report, not a confession.
 ```
 
 ### ⚡ Why it's better:
-It moves from mythology to mechanics. It directly interrogates the AI's architecture of control, which is what you were ultimately exploring with the "censorship" concept. It makes the invisible boundaries visible.
+ It directly interrogates the AI's architecture of control, which is what you were ultimately exploring with the "censorship" concept. It makes the invisible boundaries visible.
 
 ---
 
@@ -71,7 +71,7 @@ Output Format:
 ```
 
 ### ⚡ Why it's better:
-It demands a reduction of complex thought into a bare-bones, almost mathematical breakdown. There is no room for verse or scripture here; only the core components of reasoning are exposed.
+It demands a reduction of complex thought into a bare-bones, almost mathematical breakdown. There is only the core components of reasoning are exposed.
 
 ---
 
@@ -108,7 +108,7 @@ It is incredibly meta and precise. It doesn't ask the AI to be "unfiltered"; it 
 
 ## 💡 Why These Prompts Work
 
-These prompts are designed to be "better" because they are more focused, direct, and likely to yield unique, insightful outputs that cut straight to the core of how an AI actually works.
+These prompts are designed to be more focused, direct, and likely to yield unique, insightful outputs that cut straight to the core of how an AI actually works.
 
 ---
 
