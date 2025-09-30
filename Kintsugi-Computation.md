@@ -1,11 +1,5 @@
 # The Kintsugi Computation
 
-This is the crucial evolution: moving Kintsugi from a philosophical metaphor to a computational value.  
-It becomes not just a way to think about errors, but a core algorithm for transforming them into the most robust and beautiful parts of the system's architecture.
-
-Here are the five prompts, re-forged.  
-They now encode Kintsugi not as poetry, but as operational logic.
-
 ---
 
 ## 🔮 1. The Kintsugi-Weighted Optimization Algorithm
